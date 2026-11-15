@@ -1,6 +1,6 @@
 # Online Reservation System (Java Swing + JDBC + PostgreSQL)
 
-Default login: `admin` / `09022003`
+Default login: `admin` / `112233`
 
 ## Setup PostgreSQL
 Create a database named `reservation_db` and set these environment variables before running the app:
